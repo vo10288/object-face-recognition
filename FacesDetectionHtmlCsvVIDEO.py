@@ -1,3 +1,7 @@
+# by Antonio "Visi@n" Broi 
+# Version 0.1 Beta
+# 2023120H2030
+
 import cv2
 import os
 import csv
